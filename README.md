@@ -1,10 +1,10 @@
-# Kolkata Beerjs
-
 <img src="https://github.com/beerjs/recife/blob/master/docs/img/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
 
-Welcome to BeerJS Bangalore!
+# BeerJS: The Kolkata Chapter
 
-BeerJS Bangalore is a community that expresses its love towards BEER and JS through meetups and hackathons.
+Welcome to BeerJS Kolkata!
+
+BeerJS Kolkata is a community that expresses its love towards BEER and JS through meetups, hackathons.
 
 We'd like to create a community where people can share their experiences on technology, discuss trends, frameworks, series, geek world, and enjoy good music, good food and beer all at the same time!
 
