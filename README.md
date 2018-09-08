@@ -1,4 +1,4 @@
-# Bangalore
+# Kolkata Beerjs
 
 <img src="https://github.com/beerjs/recife/blob/master/docs/img/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
 
