@@ -1,0 +1,24 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title style="text-transform: uppercase;">
+      {{post._embedded['wp:term'][0][0].name}}
+    </ion-title>
+    <ion-buttons end>
+      <button ion-button>
+        <ion-icon name="logo-facebook" class="custom-icon facebook" href="https://www.facebook.com/ProfitInEquities"
+          target="_blank"></ion-icon>
+      </button>
+      <button ion-button>
+        <ion-icon name="logo-twitter" class="custom-icon twitter" href="https://twitter.com/ProfitInEquity" target="_blank"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content padding>
+  <h2> {{post.title.rendered}}</h2>
+  <ion-img height="40%" width="100%" src="{{post.profile_image}}"></ion-img>
+  <div [innerHTML]="post.content.rendered"></div>
+</ion-content>

@@ -1,0 +1,1181 @@
+[
+    {
+        "id": 1,
+        "date": "2018-11-09T19:10:54",
+        "date_gmt": "2018-11-09T19:10:54",
+        "guid": {
+            "rendered": "http://18.191.83.117/wordpress/?p=1"
+        },
+        "modified": "2018-11-09T19:10:54",
+        "modified_gmt": "2018-11-09T19:10:54",
+        "slug": "hello-world",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/11/09/hello-world/",
+        "title": {
+            "rendered": "Hello world!"
+        },
+        "content": {
+            "rendered": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=1"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 0,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/1/revisions"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=1"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=1"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=1"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 175,
+        "date": "2018-04-13T01:18:00",
+        "date_gmt": "2018-04-13T01:18:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/04/13/porinju-veliyaths-eq-india-fund-buys-stake-in-a-much-maligned-food-company/"
+        },
+        "modified": "2018-11-11T11:01:26",
+        "modified_gmt": "2018-11-11T11:01:26",
+        "slug": "porinju-veliyaths-eq-india-fund-buys-stake-in-a-much-maligned-food-company",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/04/13/porinju-veliyaths-eq-india-fund-buys-stake-in-a-much-maligned-food-company/",
+        "title": {
+            "rendered": "Porinju Veliyath’s EQ India Fund buys stake in a much maligned food company"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Porinju Veliyath</strong> is one of the most well known investors in the Indian Stock Market. Today we bring to you news of his firm <strong>(EQ India Fund)</strong> acquiring <strong>1,50,000</strong> shares of a foods products company at <strong>Rs. 650.00</strong>. Please go through the video and decide whether investment in this company is something that you would be willing to consider.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch this video to know more</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/lTjJCSZaVYg\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented herewith. The author does not hold a stake in the stock discussed.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Porinju Veliyath is one of the most well known investors in the Indian Stock Market. Today we bring to you news of his firm (EQ&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 239,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            2
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            82,
+            83,
+            110,
+            111,
+            112,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/175"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=175"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/175/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 248,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/175/revisions/248"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/239"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=175"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=175"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=175"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 174,
+        "date": "2018-04-12T01:18:00",
+        "date_gmt": "2018-04-12T01:18:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/04/12/dolly-khanna-buys-stake-in-lesser-known-smallcap-alcoholic-beverages-company/"
+        },
+        "modified": "2018-11-11T11:02:09",
+        "modified_gmt": "2018-11-11T11:02:09",
+        "slug": "dolly-khanna-buys-stake-in-lesser-known-smallcap-alcoholic-beverages-company",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/04/12/dolly-khanna-buys-stake-in-lesser-known-smallcap-alcoholic-beverages-company/",
+        "title": {
+            "rendered": "Dolly Khanna buys stake in lesser known smallcap alcoholic beverages company"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Dolly Khanna</strong> is a revered name in the Indian investing community. <strong>Dolly Khanna&#8217;s</strong> portfolio is religiously followed and news of her entry in a counter is enough to herald positive days for any stock. <strong>Rajiv Khanna</strong>, her better half is the real architect behind her investing success and manages her portfolio with high acumen. In one of our previous videos we had presented <a href=\"http://profitinequities.com/10-stocks-from-dolly-khannas-stock-portfolio-2018/\">Top 10 Stocks from Dolly Khanna’s Stock Portfolio 2018</a>, today we present to you information on a new small-cap entry to <strong>Dolly Khanna&#8217;s</strong> Portfolio.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch this video to know more</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/lQN1G2RYeJQ\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented herewith. The author does not hold a stake in the stock discussed in the video.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Dolly Khanna is a revered name in the Indian investing community. Dolly Khanna&#8217;s portfolio is religiously followed and news of her entry in a counter&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 244,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            2
+        ],
+        "tags": [
+            36,
+            47,
+            48,
+            61,
+            83,
+            88,
+            109,
+            110,
+            111,
+            112,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/174"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=174"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/174/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 249,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/174/revisions/249"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/244"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=174"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=174"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=174"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 173,
+        "date": "2018-03-16T01:38:00",
+        "date_gmt": "2018-03-16T01:38:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/03/16/stock-available-at-less-than-rs-20-where-rakesh-jhunjhunwala-has-bought-3-crore-shares/"
+        },
+        "modified": "2018-11-11T11:02:31",
+        "modified_gmt": "2018-11-11T11:02:31",
+        "slug": "stock-available-at-less-than-rs-20-where-rakesh-jhunjhunwala-has-bought-3-crore-shares",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/03/16/stock-available-at-less-than-rs-20-where-rakesh-jhunjhunwala-has-bought-3-crore-shares/",
+        "title": {
+            "rendered": "Stock available at less than Rs. 20 where Rakesh Jhunjhunwala has bought 3 crore shares"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Rakesh Jhunjhunwala</strong> is one of the most well known investors in the Indian Stock Market. Today we bring to you news of his firm <strong>Rare Enterprises</strong> acquiring <strong>300,00,000</strong> shares of a much maligned infrastructure company at <strong>Rs. 18.37</strong>. Please go through the video and decide whether this company meets your investment criterion.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p>&nbsp;</p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch this video to know more</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/lTvInA-LRnk\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p>&nbsp;</p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented herewith. The author does not hold a stake in the stock discussed.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Rakesh Jhunjhunwala is one of the most well known investors in the Indian Stock Market. Today we bring to you news of his firm Rare&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 247,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            2
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            83,
+            89,
+            109,
+            110,
+            111,
+            112,
+            115,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/173"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=173"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/173/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 250,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/173/revisions/250"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/247"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=173"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=173"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=173"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 172,
+        "date": "2018-03-12T02:00:00",
+        "date_gmt": "2018-03-12T02:00:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/03/12/top-8-stocks-from-radhakishan-damanis-portfolio-2018/"
+        },
+        "modified": "2018-11-11T11:03:01",
+        "modified_gmt": "2018-11-11T11:03:01",
+        "slug": "top-8-stocks-from-radhakishan-damanis-portfolio-2018",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/03/12/top-8-stocks-from-radhakishan-damanis-portfolio-2018/",
+        "title": {
+            "rendered": "Top 8 Stocks from Radhakishan Damani’s Portfolio 2018"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Radhakishan Damani</strong> is one of the greatest investors in India. He is the owner of <strong>DMart</strong>(chain of retail stores) and is a billionaire many times over. In one of our previous videos we had brought to you a list of <a href=\"http://profitinequities.com/5-stocks-from-radhakishan-damanis-stock-portfolio/\">5 Stocks from Radhakishan Damani&#8217;s Stock Portfolio 2017</a>, today we bring to you a list of top 8 stocks from his stock portfolio 2018. Please go through the list, and decide whether investment in these stocks is something that you would be willing to consider.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p>&nbsp;</p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch the video below for a list of the top 8 stocks from Radhakishan Damani&#8217;s Stock Portfolio.</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/4aVx1qq25Qg\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p>&nbsp;</p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy. The author of this article does not have a holding in any of the stocks discussed.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Radhakishan Damani is one of the greatest investors in India. He is the owner of DMart(chain of retail stores) and is a billionaire many times&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 243,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            2
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            83,
+            87,
+            110,
+            111,
+            112,
+            115,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/172"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=172"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/172/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 251,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/172/revisions/251"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/243"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=172"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=172"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=172"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 171,
+        "date": "2018-02-26T01:47:00",
+        "date_gmt": "2018-02-26T01:47:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/02/26/shyam-sekhar-buys-stake-in-a-debt-free-multinational-company-previously-suggested-by-s-p-tulsian/"
+        },
+        "modified": "2018-11-11T11:03:24",
+        "modified_gmt": "2018-11-11T11:03:24",
+        "slug": "shyam-sekhar-buys-stake-in-a-debt-free-multinational-company-previously-suggested-by-s-p-tulsian",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/02/26/shyam-sekhar-buys-stake-in-a-debt-free-multinational-company-previously-suggested-by-s-p-tulsian/",
+        "title": {
+            "rendered": "Shyam Sekhar buys stake in a debt free multinational company previously suggested by S P Tulsian"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Shyam Sekhar</strong> is an astute value investor from India. Today we bring to you news of his acquiring stake in a debt free multinational company. <strong>S P Tulsian</strong> has also previously recommended this stock. Please go through the article and decide whether investment in this company is something you would be willing to consider.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch the video below to know more about the stock and whether it should be a part of your investment portfolio.</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/yurb8gI3n8g\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented herewith.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Shyam Sekhar is an astute value investor from India. Today we bring to you news of his acquiring stake in a debt free multinational company.&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 241,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            2
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            83,
+            98,
+            104,
+            109,
+            110,
+            111,
+            112,
+            115,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/171"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=171"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/171/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 252,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/171/revisions/252"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/241"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=171"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=171"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=171"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 170,
+        "date": "2018-02-23T02:00:00",
+        "date_gmt": "2018-02-23T02:00:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/02/23/favourite-stock-of-dolly-khanna-and-s-p-tulsian-where-porinju-veliyath-has-hiked-his-stake-to-7-35/"
+        },
+        "modified": "2018-11-11T11:03:55",
+        "modified_gmt": "2018-11-11T11:03:55",
+        "slug": "favourite-stock-of-dolly-khanna-and-s-p-tulsian-where-porinju-veliyath-has-hiked-his-stake-to-7-35",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/02/23/favourite-stock-of-dolly-khanna-and-s-p-tulsian-where-porinju-veliyath-has-hiked-his-stake-to-7-35/",
+        "title": {
+            "rendered": "Favourite Stock of Dolly Khanna and S P Tulsian where Porinju Veliyath has hiked his stake to 7.35%"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em>Today we talk about a favourite stock of Dolly Khanna and S P Tulsian where Porinju Veliyath has hiked his stake to 7.35%. The stock is cash rich and is available at dirt cheap valuations. Please go through the stock and check whether investment in this stock is something you would be willing to consider.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch the video below to know more about the stock and whether it should be a part of your investment portfolio.</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/vHSVOED90x0\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented herewith.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Today we talk about a favourite stock of Dolly Khanna and S P Tulsian where Porinju Veliyath has hiked his stake to 7.35%. The stock&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 238,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            2
+        ],
+        "tags": [
+            36,
+            47,
+            48,
+            61,
+            82,
+            83,
+            98,
+            109,
+            110,
+            111,
+            112,
+            115,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/170"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=170"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/170/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 253,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/170/revisions/253"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/238"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=170"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=170"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=170"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 169,
+        "date": "2018-02-20T01:44:00",
+        "date_gmt": "2018-02-20T01:44:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/02/20/radhakishan-damani-buys-into-porinju-veliyaths-new-stock-purchase/"
+        },
+        "modified": "2018-02-20T01:44:00",
+        "modified_gmt": "2018-02-20T01:44:00",
+        "slug": "radhakishan-damani-buys-into-porinju-veliyaths-new-stock-purchase",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/02/20/radhakishan-damani-buys-into-porinju-veliyaths-new-stock-purchase/",
+        "title": {
+            "rendered": "Radhakishan Damani buys into Porinju Veliyath&#8217;s new stock purchase"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Radhakishan Damani</strong> is one of the greatest investors in India. He is the owner of <strong>DMart</strong>(chain of retail stores) and is a billionaire many times over. Today we bring to you news of his acquiring stake in a much maligned healthcare services company. Now Porinju Veliyath has also recently acquired stake in the company and we had also reported the same <a href=\"http://profitinequities.com/porinju-veliyaths-3-stock-ideas/\">here</a>. Please go through the article and decide whether investment in this company is something you would be willing to consider.</em></p>\n<p><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p><ins class=\"adsbygoogle\"\n     style=\"display:block; text-align:center;\"\n     data-ad-layout=\"in-article\"\n     data-ad-format=\"fluid\"\n     data-ad-client=\"ca-pub-2463783356343117\"\n     data-ad-slot=\"3165825875\"></ins></p>\n<p><script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script></p>\n<blockquote>\n<p><em>Please watch the video below to know more about the stock and whether it should be a part of your investment portfolio.</em></p>\n</blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/9ugTXjDv11k\"\n   width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p><ins class=\"adsbygoogle\"\n     style=\"display:block; text-align:center;\"\n     data-ad-layout=\"in-article\"\n     data-ad-format=\"fluid\"\n     data-ad-client=\"ca-pub-2463783356343117\"\n     data-ad-slot=\"3165825875\"></ins></p>\n<p><script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented herewith.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Radhakishan Damani is one of the greatest investors in India. He is the owner of DMart(chain of retail stores) and is a billionaire many times&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 0,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            1
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            82,
+            83,
+            87,
+            109,
+            110,
+            111,
+            112,
+            115,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/169"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=169"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/169/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 254,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/169/revisions/254"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=169"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=169"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=169"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 168,
+        "date": "2018-02-18T14:52:00",
+        "date_gmt": "2018-02-18T14:52:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/02/18/porinju-veliyaths-3-stock-ideas/"
+        },
+        "modified": "2018-11-11T11:04:43",
+        "modified_gmt": "2018-11-11T11:04:43",
+        "slug": "porinju-veliyaths-3-stock-ideas",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/02/18/porinju-veliyaths-3-stock-ideas/",
+        "title": {
+            "rendered": "Porinju Veliyath’s 3 stock ideas"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Porinju Veliyath</strong> is one of the most well known investors in the Indian Stock Market. Here we present to you 3 stocks which <strong>Porinju</strong> has outlined as his top picks in the current market scenario. Please go through the video and decide whether investments in these companies is something that you would be willing to consider.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p>&nbsp;</p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch this video to know more</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/zv45VaXCZIQ\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><br />\n<!-- Display Ads Only - Banner --></p>\n<p>&nbsp;</p>\n<p><script><br />\n(adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy and one must consult their financial advisor prior to acting on any of the information presented here. The author holds IRB Infrastructure bought at much lower levels.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Porinju Veliyath is one of the most well known investors in the Indian Stock Market. Here we present to you 3 stocks which Porinju has&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 239,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            3
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            82,
+            83,
+            109,
+            110,
+            111,
+            112,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/168"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=168"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/168/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 255,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/168/revisions/255"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/239"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=168"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=168"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=168"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 167,
+        "date": "2018-02-17T04:46:00",
+        "date_gmt": "2018-02-17T04:46:00",
+        "guid": {
+            "rendered": "http://localhost:8888/pie/2018/02/17/10-stocks-from-rakesh-jhunjhunwalas-stock-portfolio-2018/"
+        },
+        "modified": "2018-11-11T11:05:04",
+        "modified_gmt": "2018-11-11T11:05:04",
+        "slug": "10-stocks-from-rakesh-jhunjhunwalas-stock-portfolio-2018",
+        "status": "publish",
+        "type": "post",
+        "link": "http://18.191.83.117/wordpress/index.php/2018/02/17/10-stocks-from-rakesh-jhunjhunwalas-stock-portfolio-2018/",
+        "title": {
+            "rendered": "10 Stocks from Rakesh Jhunjhunwala&#8217;s Stock Portfolio 2018"
+        },
+        "content": {
+            "rendered": "<div class=\"kg-card-markdown\">\n<p><em><strong>Rakesh Jhunjhunwala</strong> also known as the Warren Buffet of India is probably the greatest stock investor in India. With a personal net worth of 3.1 Billion USD derived predominantly from stock market successes, he is widely followed and revered by stock enthusiasts, young and old alike. In one of our previous videos we had brought to you a list of <a href=\"http://profitinequities.com/top-10-stocks-in-rakesh-jhunjhunwalas-stock-portfolio-2017/\">top 10 stocks from Rakesh Jhunjhunwala&#8217;s portfolio 2017</a>, today we bring to you a list of top 10 stocks from Rakesh Jhunjhunwala&#8217;s stock portfolio 2018. Please go through the list, and decide whether investment in these stocks is something that you would be willing to consider.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<blockquote><p><em>Please watch the video below for a list of the top 10 stocks from Rakesh Jhunjhunwala&#8217;s Stock Portfolio.</em></p></blockquote>\n<p><iframe src=\"http://www.youtube.com/embed/WJ1gAX_Y4Lg\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><em>Please remember investing is extremely risky and factors in a very high risk of capital erosion. Please exercise extreme caution while dealing in risk based assets.</em></p>\n<p><script async=\"\" src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script></p>\n<p>&nbsp;</p>\n<p><script><br />\n     (adsbygoogle = window.adsbygoogle || []).push({});<br />\n</script></p>\n<p><em><strong>Standard Disclaimer :: The information in this article has been compiled from freely available information on the internet. None of the stocks mentioned here should be considered as recommendations to buy. The author of this article does not have a holding in any of the stocks discussed.</strong></em></p>\n</div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Rakesh Jhunjhunwala also known as the Warren Buffet of India is probably the greatest stock investor in India. With a personal net worth of 3.1&#8230;</p>\n",
+            "protected": false
+        },
+        "author": 1,
+        "featured_media": 245,
+        "comment_status": "open",
+        "ping_status": "open",
+        "sticky": false,
+        "template": "",
+        "format": "standard",
+        "meta": [],
+        "categories": [
+            3
+        ],
+        "tags": [
+            47,
+            48,
+            61,
+            83,
+            89,
+            109,
+            110,
+            111,
+            112,
+            115,
+            116,
+            117
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/167"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/users/1"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/comments?post=167"
+                }
+            ],
+            "version-history": [
+                {
+                    "count": 1,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/167/revisions"
+                }
+            ],
+            "predecessor-version": [
+                {
+                    "id": 256,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/posts/167/revisions/256"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media/245"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/media?parent=167"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "category",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/categories?post=167"
+                },
+                {
+                    "taxonomy": "post_tag",
+                    "embeddable": true,
+                    "href": "http://18.191.83.117/wordpress/index.php/wp-json/wp/v2/tags?post=167"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https://api.w.org/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

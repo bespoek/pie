@@ -1,0 +1,20 @@
+<ion-content>
+  <ion-card class="post-card" *ngFor="let post of posts" (click)="openCard(post)">
+    <ion-card-content>
+      <!-- dimensions set using attributes -->
+      <div class="post-image">
+        <img src="{{post.profile_image}}" />
+        <div class="post-image-title">{{post.category}}</div>
+      </div>
+      <ion-card-title class="post-title">
+        <b>{{post.title.rendered}}</b>
+      </ion-card-title>
+      <div class="post-date">
+        <p class="date">{{post.date | date : 'MMM d, y' }}&nbsp;{{post.date | date : 'h:mm a' }}</p>
+      </div>
+    </ion-card-content>
+  </ion-card>
+  <div *ngIf="isLoading" text-center padding>
+    <ion-spinner></ion-spinner>
+  </div>
+</ion-content>

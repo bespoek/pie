@@ -1,0 +1,36 @@
+page-video {
+
+}
+
+.video-card {
+    margin-top: 62px;
+}
+
+.video {
+    width: 15%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 42.5%;
+    border-radius: 50%;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.player {
+    font-size: 350%;
+    color: white;
+    padding-left: 10px;
+}
+
+.videoplayer {
+    width: 15%;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 42.5%;
+    border-radius: 50%;
+}
+
+.like-dislike {
+    display: inline;
+    width: auto;
+}
